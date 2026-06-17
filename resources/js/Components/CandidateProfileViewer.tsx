@@ -1,0 +1,1 @@
+export default function CandidateProfileViewer(){return <div>Candidate Profile</div>}

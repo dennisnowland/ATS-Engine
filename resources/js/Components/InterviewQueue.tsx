@@ -1,0 +1,1 @@
+export default function InterviewQueue(){return <div>Interview Queue</div>}

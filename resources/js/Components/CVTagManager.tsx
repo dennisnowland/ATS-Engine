@@ -1,0 +1,1 @@
+export default function CVTagManager(){return <div>CV Tags</div>}

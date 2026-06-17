@@ -1,0 +1,1 @@
+export default function CVUploadForm(){return <div>Upload CV</div>}

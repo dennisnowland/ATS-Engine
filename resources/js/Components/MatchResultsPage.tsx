@@ -1,0 +1,1 @@
+export default function MatchResultsPage(){return <div>Match Results</div>}

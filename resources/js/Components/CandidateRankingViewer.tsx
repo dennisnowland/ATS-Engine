@@ -1,0 +1,1 @@
+export default function CandidateRankingViewer(){return <div>Candidate Rankings</div>}

@@ -1,0 +1,1 @@
+export default function Under93Table(){return <div>Under93 Table</div>}

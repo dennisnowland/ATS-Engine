@@ -1,0 +1,1 @@
+export default function JobParsingDashboard(){return <div>Job Parsing Dashboard</div>}

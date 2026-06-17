@@ -1,0 +1,1 @@
+<?php return ['allowed_types'=>['pdf','doc','docx']];

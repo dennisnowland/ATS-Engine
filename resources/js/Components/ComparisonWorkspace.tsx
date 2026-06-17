@@ -1,0 +1,1 @@
+export default function ComparisonWorkspace(){return <div>Comparison Workspace</div>}

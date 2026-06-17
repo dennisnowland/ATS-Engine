@@ -1,0 +1,1 @@
+export default function JobProfileViewer(){return <div>Job Profile Viewer</div>}

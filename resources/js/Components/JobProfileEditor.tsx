@@ -1,0 +1,1 @@
+export default function JobProfileEditor(){return <div>Job Profile Editor</div>}

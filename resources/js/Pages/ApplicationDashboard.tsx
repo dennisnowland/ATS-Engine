@@ -1,0 +1,1 @@
+export default function ApplicationDashboard(){return <div>Application Dashboard</div>}

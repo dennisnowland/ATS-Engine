@@ -1,0 +1,1 @@
+export default function ImportTemplateManager(){return <div>Template Manager</div>}

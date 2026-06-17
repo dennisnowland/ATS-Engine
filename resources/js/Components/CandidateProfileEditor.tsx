@@ -1,0 +1,1 @@
+export default function CandidateProfileEditor(){return <div>Edit Profile</div>}

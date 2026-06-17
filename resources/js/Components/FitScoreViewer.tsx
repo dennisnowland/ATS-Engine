@@ -1,0 +1,1 @@
+export default function FitScoreViewer(){return <div>Fit Score</div>}

@@ -1,0 +1,1 @@
+export default function CVParsingDashboard(){return <div>CV Parsing Dashboard</div>}

@@ -1,0 +1,1 @@
+export default function CVSearchPanel(){return <div>Search CVs</div>}

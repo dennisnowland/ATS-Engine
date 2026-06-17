@@ -1,0 +1,1 @@
+export default function PipelineBoard(){return <div>Pipeline Board</div>}

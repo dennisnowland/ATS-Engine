@@ -1,0 +1,1 @@
+export default function BestCVPanel(){return <div>Best CV</div>}

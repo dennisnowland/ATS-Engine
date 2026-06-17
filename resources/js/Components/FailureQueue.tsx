@@ -1,0 +1,1 @@
+export default function FailureQueue(){return <div>Failure Queue</div>}
