@@ -4,7 +4,7 @@ ATS-V3 is a multi-tenant Applicant Tracking System (ATS) designed to automate an
 
 The platform is being built as a generic, configurable recruitment system that can be used by individuals, recruiters, agencies, and organisations without requiring hardcoded CV formats, CSV structures, industries, or job types.
 
----
+\---
 
 ## Core Principles
 
@@ -45,7 +45,7 @@ Each tenant has isolated access to:
 * Reports
 * Configuration
 
----
+\---
 
 ## Business Workflow
 
@@ -72,7 +72,7 @@ Tracking
 Reporting
 → Daily Summary / Metrics
 
----
+\---
 
 ## Technology Stack
 
@@ -102,11 +102,11 @@ Reporting
 
 * Pest PHP
 
----
+\---
 
 ## Current Modules
 
-### Authentication & Tenancy
+### Authentication \& Tenancy
 
 * User Management
 * Authentication
@@ -166,7 +166,7 @@ Reporting
 * Trend Analysis
 * Reporting Services
 
----
+\---
 
 ## MVP Goal
 
@@ -181,7 +181,7 @@ The first working MVP delivers:
 7. Display Matched Skills
 8. Display Missing Skills
 
----
+\---
 
 ## Repository Structure
 
@@ -201,7 +201,7 @@ tests/
 
 docs/
 
----
+\---
 
 ## Development Status
 
@@ -223,7 +223,7 @@ Future phases:
 * Workflow Automation
 * Production Hardening
 
----
+\---
 
 ## Design Rules
 
@@ -236,10 +236,3 @@ Future phases:
 * Configurable workflows
 * Extensible architecture
 
----
-
-## License
-
-Private Repository
-
-All rights reserved.
